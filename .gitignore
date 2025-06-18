@@ -1,0 +1,31 @@
+# Android/IntelliJ
+*.iml
+.idea/
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+.DS_Store
+
+# Keystore files (if any)
+*.jks
+
+# Generated files
+*.apk
+*.ap_
+
+# OS-specific
+Thumbs.db
+*.swp
+*~
+
+# Jetpack Compose Preview cache
+.idea/assetWizardSettings.xml
+
+# Kotlin compile
+*.class
+
+# Firebase & Google Services (optional)
+google-services.json
